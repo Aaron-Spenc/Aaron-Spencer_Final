@@ -18,7 +18,7 @@
  * Your mission:
  * Add the correct keyword so isDayMode becomes a proper variable.
  *****************************************************************/
-let isDayMode = false;   // boolean: starts as false (night mode is default)
+isDayMode = false;   // boolean: starts as false (night mode is default)
 
 
 
@@ -27,13 +27,6 @@ let isDayMode = false;   // boolean: starts as false (night mode is default)
 // It uses an IF STATEMENT to check the boolean and switch modes.
 
 function toggleDayNight() {
-  if ( Day/Night Toggle Button("night-mode"){
-    
-}
-  // switched the toggleDayNight to turn 
-
-
-    
 
   /*****************************************************************
    * 3. LOGIC FAILURE:
